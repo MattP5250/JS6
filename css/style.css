@@ -1,0 +1,15 @@
+body {
+      background-color: #0a1a3f;
+      color: white;
+      min-height: 100vh;
+    }
+
+    .riga {
+      min-height: 100vh;
+    }
+
+    .login {
+      background-color: white;
+      color: #222;
+      padding: 40px;
+    }
